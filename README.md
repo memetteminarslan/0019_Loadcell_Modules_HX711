@@ -1,1 +1,3 @@
 # 0019_Loadcell_Modules_HX711
+You are seeing a large number of widely used load cell modules in electronic development kits. More information coming soon...
+
